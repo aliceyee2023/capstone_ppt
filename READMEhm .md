@@ -1,25 +1,4 @@
----
-jupyter:
-  kernelspec:
-    display_name: Python 3 (ipykernel)
-    language: python
-    name: python3
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.11.4
-  nbformat: 4
-  nbformat_minor: 5
----
-
-::: {#17705aa2-abc9-4e7b-a8d9-07fc669a474e .cell .markdown}
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project- `<br>`{=html} H&M Personalized Recommender System {#-capstone-project----hm-personalized-recommender-system}
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project-  H&M Personalized Recommender System 
 
 ## Introduction
 
