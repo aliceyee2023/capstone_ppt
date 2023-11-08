@@ -73,9 +73,10 @@ source:<https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recomme
    2.   https://www.kaggle.com/code/leakotlyar/h-m-personalized-fashion-recommendations
    3.   https://www.kaggle.com/code/multimodel1/content-based-filtering-with-pca
 
-## Link to google colab for remaining data files: 
-   1.	https://colab.research.google.com/drive/1KD9XXG7iIKqmViHIZu1iAg4mvfhoTVCP#scrollTo=5CN5NUgdq_Bn
+## Link to OneDrive for remaining data files: 
+   1.   https://1drv.ms/f/s!Al5zd92iHjx5iLgTUEjVe2XMwWzajw?e=fkeK9D
 
-## Link to google colab for streamlit .py 
+## Link to OneDrive for streamlit: hm_app.py 
 
-   2.	Streamlit address: https://colab.research.google.com/drive/126ZzdQ6VKDUvi7Mh-bO_g3qDDcVsoyfD#scrollTo=pmFmgD-RMj5m
+   2.	Streamlit folder address:
+        https://1drv.ms/f/s!Al5zd92iHjx5kZsgsOPG--D18Kw3wQ?e=aqZQTk
